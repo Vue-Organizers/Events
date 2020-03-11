@@ -5,6 +5,7 @@
 - Author: Adrien Montagu
 - Original language: English
 - City: Lyon, France
+- Meetup / Conf: Null
 - Github Repository: Null
 - Video link: Null
 - Find me on:
